@@ -64,12 +64,12 @@ STRRES STR R7, R5, #0
  STR R1, R0, #0
  ADD R0, R0, #-1
  LDR R1, R0, #0
- LD R2, C
+ LD R2, B
  ADD R1, R2, R1
  STR R1, R0, #0
  ADD R0, R0, #-1
  LDR R1, R0, #0
- LD R2, B
+ LD R2, C
  ADD R1, R2, R1
  STR R1, R0, #0
  ADD R0, R0, #-1
